@@ -12,6 +12,7 @@ import org.springframework.cloud.openfeign.FeignAutoConfiguration;
 public class EmployeeApplication {
 
 	public static void main(String[] args) {
+		System.out.println("GItHUB");
 		SpringApplication.run(EmployeeApplication.class, args);
 	}
 
